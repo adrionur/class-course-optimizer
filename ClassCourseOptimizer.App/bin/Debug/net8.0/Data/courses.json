@@ -1,0 +1,38 @@
+{
+  "Türkçe": {
+    "Hours": 4,
+    "Teachers": [ "Salih", "Özlem" ]
+  },
+  "Matematik": {
+    "Hours": 4,
+    "Teachers": [ "Mehmet", "Özlem" ]
+  },
+  "Tarih": {
+    "Hours": 3,
+    "Teachers": [ "Sultan" ]
+  },
+  "Coğrafya": {
+    "Hours": 3,
+    "Teachers": [ "Esra" ]
+  },
+  "Beden": {
+    "Hours": 3,
+    "Teachers": [ "Alper" ]
+  },
+  "Resim": {
+    "Hours": 2,
+    "Teachers": [ "Alper" ]
+  },
+  "Fizik": {
+    "Hours": 2,
+    "Teachers": [ "Esra" ]
+  },
+  "Kimya": {
+    "Hours": 2,
+    "Teachers": [ "Sultan" ]
+  },
+  "Biyoloji": {
+    "Hours": 2,
+    "Teachers": [ "Salih" ]
+  }
+}

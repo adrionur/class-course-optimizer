@@ -1,0 +1,16 @@
+E:\Kodlama\Artiwise\ClassCourseOptimizer\ClassCourseOptimizer.App\bin\Debug\net8.0\ClassCourseOptimizer.Console.exe
+E:\Kodlama\Artiwise\ClassCourseOptimizer\ClassCourseOptimizer.App\bin\Debug\net8.0\ClassCourseOptimizer.Console.deps.json
+E:\Kodlama\Artiwise\ClassCourseOptimizer\ClassCourseOptimizer.App\bin\Debug\net8.0\ClassCourseOptimizer.Console.runtimeconfig.json
+E:\Kodlama\Artiwise\ClassCourseOptimizer\ClassCourseOptimizer.App\bin\Debug\net8.0\ClassCourseOptimizer.Console.dll
+E:\Kodlama\Artiwise\ClassCourseOptimizer\ClassCourseOptimizer.App\bin\Debug\net8.0\ClassCourseOptimizer.Console.pdb
+E:\Kodlama\Artiwise\ClassCourseOptimizer\ClassCourseOptimizer.App\obj\Debug\net8.0\ClassCourseOptimizer.Console.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kodlama\Artiwise\ClassCourseOptimizer\ClassCourseOptimizer.App\obj\Debug\net8.0\ClassCourseOptimizer.Console.AssemblyInfoInputs.cache
+E:\Kodlama\Artiwise\ClassCourseOptimizer\ClassCourseOptimizer.App\obj\Debug\net8.0\ClassCourseOptimizer.Console.AssemblyInfo.cs
+E:\Kodlama\Artiwise\ClassCourseOptimizer\ClassCourseOptimizer.App\obj\Debug\net8.0\ClassCourseOptimizer.Console.csproj.CoreCompileInputs.cache
+E:\Kodlama\Artiwise\ClassCourseOptimizer\ClassCourseOptimizer.App\obj\Debug\net8.0\ClassCourseOptimizer.Console.dll
+E:\Kodlama\Artiwise\ClassCourseOptimizer\ClassCourseOptimizer.App\obj\Debug\net8.0\refint\ClassCourseOptimizer.Console.dll
+E:\Kodlama\Artiwise\ClassCourseOptimizer\ClassCourseOptimizer.App\obj\Debug\net8.0\ClassCourseOptimizer.Console.pdb
+E:\Kodlama\Artiwise\ClassCourseOptimizer\ClassCourseOptimizer.App\obj\Debug\net8.0\ClassCourseOptimizer.Console.genruntimeconfig.cache
+E:\Kodlama\Artiwise\ClassCourseOptimizer\ClassCourseOptimizer.App\obj\Debug\net8.0\ref\ClassCourseOptimizer.Console.dll
+E:\Kodlama\Artiwise\ClassCourseOptimizer\ClassCourseOptimizer.App\bin\Debug\net8.0\Data\courses.json
+E:\Kodlama\Artiwise\ClassCourseOptimizer\ClassCourseOptimizer.App\bin\Debug\net8.0\Data\classes.json

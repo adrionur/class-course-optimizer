@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Kodlama\\Artiwise\\ClassCourseOptimizer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91B0EB55-4A80-47C1-9A01-519103739A8F}|ClassCourseOptimizer.App\\ClassCourseOptimizer.Console.csproj|e:\\kodlama\\artiwise\\classcourseoptimizer\\classcourseoptimizer.app\\data\\classes.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{91B0EB55-4A80-47C1-9A01-519103739A8F}|ClassCourseOptimizer.App\\ClassCourseOptimizer.Console.csproj|solutionrelative:classcourseoptimizer.app\\data\\classes.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0C6AE4B-8FFC-47A4-92D5-92DC7714C029}|ClassCourseOptimizer.Test\\ClassCourseOptimizer.Test.csproj|e:\\kodlama\\artiwise\\classcourseoptimizer\\classcourseoptimizer.test\\scheduletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0C6AE4B-8FFC-47A4-92D5-92DC7714C029}|ClassCourseOptimizer.Test\\ClassCourseOptimizer.Test.csproj|solutionrelative:classcourseoptimizer.test\\scheduletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91B0EB55-4A80-47C1-9A01-519103739A8F}|ClassCourseOptimizer.App\\ClassCourseOptimizer.Console.csproj|e:\\kodlama\\artiwise\\classcourseoptimizer\\classcourseoptimizer.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91B0EB55-4A80-47C1-9A01-519103739A8F}|ClassCourseOptimizer.App\\ClassCourseOptimizer.Console.csproj|solutionrelative:classcourseoptimizer.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91B0EB55-4A80-47C1-9A01-519103739A8F}|ClassCourseOptimizer.App\\ClassCourseOptimizer.Console.csproj|e:\\kodlama\\artiwise\\classcourseoptimizer\\classcourseoptimizer.app\\models\\slot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91B0EB55-4A80-47C1-9A01-519103739A8F}|ClassCourseOptimizer.App\\ClassCourseOptimizer.Console.csproj|solutionrelative:classcourseoptimizer.app\\models\\slot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91B0EB55-4A80-47C1-9A01-519103739A8F}|ClassCourseOptimizer.App\\ClassCourseOptimizer.Console.csproj|e:\\kodlama\\artiwise\\classcourseoptimizer\\classcourseoptimizer.app\\models\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91B0EB55-4A80-47C1-9A01-519103739A8F}|ClassCourseOptimizer.App\\ClassCourseOptimizer.Console.csproj|solutionrelative:classcourseoptimizer.app\\models\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91B0EB55-4A80-47C1-9A01-519103739A8F}|ClassCourseOptimizer.App\\ClassCourseOptimizer.Console.csproj|e:\\kodlama\\artiwise\\classcourseoptimizer\\classcourseoptimizer.app\\services\\scheduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91B0EB55-4A80-47C1-9A01-519103739A8F}|ClassCourseOptimizer.App\\ClassCourseOptimizer.Console.csproj|solutionrelative:classcourseoptimizer.app\\services\\scheduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "classes.json",
+              "DocumentMoniker": "E:\\Kodlama\\Artiwise\\ClassCourseOptimizer\\ClassCourseOptimizer.App\\Data\\classes.json",
+              "RelativeDocumentMoniker": "ClassCourseOptimizer.App\\Data\\classes.json",
+              "ToolTip": "E:\\Kodlama\\Artiwise\\ClassCourseOptimizer\\ClassCourseOptimizer.App\\Data\\classes.json",
+              "RelativeToolTip": "ClassCourseOptimizer.App\\Data\\classes.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-04T21:45:17.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Slot.cs",
+              "DocumentMoniker": "E:\\Kodlama\\Artiwise\\ClassCourseOptimizer\\ClassCourseOptimizer.App\\Models\\Slot.cs",
+              "RelativeDocumentMoniker": "ClassCourseOptimizer.App\\Models\\Slot.cs",
+              "ToolTip": "E:\\Kodlama\\Artiwise\\ClassCourseOptimizer\\ClassCourseOptimizer.App\\Models\\Slot.cs",
+              "RelativeToolTip": "ClassCourseOptimizer.App\\Models\\Slot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T21:38:18.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Schedule.cs",
+              "DocumentMoniker": "E:\\Kodlama\\Artiwise\\ClassCourseOptimizer\\ClassCourseOptimizer.App\\Models\\Schedule.cs",
+              "RelativeDocumentMoniker": "ClassCourseOptimizer.App\\Models\\Schedule.cs",
+              "ToolTip": "E:\\Kodlama\\Artiwise\\ClassCourseOptimizer\\ClassCourseOptimizer.App\\Models\\Schedule.cs",
+              "RelativeToolTip": "ClassCourseOptimizer.App\\Models\\Schedule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T21:38:13.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScheduleTest.cs",
+              "DocumentMoniker": "E:\\Kodlama\\Artiwise\\ClassCourseOptimizer\\ClassCourseOptimizer.Test\\ScheduleTest.cs",
+              "RelativeDocumentMoniker": "ClassCourseOptimizer.Test\\ScheduleTest.cs",
+              "ToolTip": "E:\\Kodlama\\Artiwise\\ClassCourseOptimizer\\ClassCourseOptimizer.Test\\ScheduleTest.cs",
+              "RelativeToolTip": "ClassCourseOptimizer.Test\\ScheduleTest.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T21:17:06.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ScheduleService.cs",
+              "DocumentMoniker": "E:\\Kodlama\\Artiwise\\ClassCourseOptimizer\\ClassCourseOptimizer.App\\Services\\ScheduleService.cs",
+              "RelativeDocumentMoniker": "ClassCourseOptimizer.App\\Services\\ScheduleService.cs",
+              "ToolTip": "E:\\Kodlama\\Artiwise\\ClassCourseOptimizer\\ClassCourseOptimizer.App\\Services\\ScheduleService.cs",
+              "RelativeToolTip": "ClassCourseOptimizer.App\\Services\\ScheduleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T22:54:48.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Kodlama\\Artiwise\\ClassCourseOptimizer\\ClassCourseOptimizer.App\\Program.cs",
+              "RelativeDocumentMoniker": "ClassCourseOptimizer.App\\Program.cs",
+              "ToolTip": "E:\\Kodlama\\Artiwise\\ClassCourseOptimizer\\ClassCourseOptimizer.App\\Program.cs",
+              "RelativeToolTip": "ClassCourseOptimizer.App\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T22:54:45.065Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
